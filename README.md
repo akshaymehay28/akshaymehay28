@@ -25,4 +25,4 @@ Computer Science (AI) graduate from Nottingham Trent University (First-Class Hon
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/akshay-mehay-8a7652279) · akshaymehay@gmail.com · Bradford/Leeds, West Yorkshire, UK
+[LinkedIn](https://linkedin.com/in/akshay-mehay-8a7652279) · akshaymehay@gmail.com · Bradford/Leeds, West Yorkshire, UK
