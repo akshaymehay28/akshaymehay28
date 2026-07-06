@@ -1,4 +1,4 @@
-# Hi, I'm Akshay 👋
+# Hi, I'm Akshay Mehay
 
 Computer Science (AI) graduate from Nottingham Trent University (First-Class Honours), building end-to-end machine learning systems — from data pipelines and model training to explainability and deployment.
 
@@ -7,7 +7,7 @@ Computer Science (AI) graduate from Nottingham Trent University (First-Class Hon
 - **[SolarSage](https://github.com/akshaymehay28/solarsage)** — RAG-powered assistant for solar PV fault diagnosis. FastAPI, TF-IDF retrieval baseline, optional LLM generation, retrieval evaluation (hit-rate@k), Docker + CI.
 - Currently seeking **graduate ML/AI Engineer roles** in the UK.
 
-## 🛠️ Featured projects
+## Featured projects
 
 | Project | What it shows | Stack |
 |---------|---------------|-------|
