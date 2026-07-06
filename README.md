@@ -13,12 +13,13 @@ Computer Science (AI) graduate from Nottingham Trent University (First-Class Hon
 |---------|---------------|-------|
 | [SolarSage](https://github.com/akshaymehay28/solarsage) | Retrieval-augmented generation over technical docs, with retrieval evaluation and a containerised API | Python, FastAPI, scikit-learn, Docker, GitHub Actions |
 | [ClaraSol](http://github.com/akshaymehay28/clarasol_project) | Predictive maintenance dashboard — multi-class solar fault detection (weighted F1 0.87), power forecasting (R² 0.99), per-prediction TreeSHAP explainability | Python, scikit-learn, Streamlit, SQLite |
+| [picovec](https://github.com/akshaymehay28/picovec) | HNSW approximate nearest-neighbour search implemented from scratch in C++17 - benchmarked recall/QPS trade-offs against an exact baseline | C++17, GitHub Actions |
 | [ROS 2 Autonomous Robot](https://github.com/akshaymehay28/cognitive_cwk_final) | Autonomous navigation with Nav2, YOLO object detection, occupancy grid mapping and RTAB-Map visual odometry | C++, Python, ROS 2, Gazebo |
 | [MindMate](https://github.com/akshaymehay28/MindMate_app) | Material 3 Android app with Firebase/Firestore backend | Java, Firebase |
 
 ## Skills
 
-**Languages:** Python · Java · C++ · SQL · JavaScript
+**Languages:** Python · C++ · Java · SQL · JavaScript
 **ML & Data:** scikit-learn · pandas · NumPy · Gradient Boosting · Explainable AI (SHAP) · Matplotlib
 **Engineering:** FastAPI · Docker · Git · GitHub Actions · Streamlit · REST APIs · MySQL/SQLite · Firebase · ROS 2
 
